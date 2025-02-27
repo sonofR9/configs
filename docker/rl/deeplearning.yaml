@@ -17,7 +17,7 @@ dependencies:
   - opencv
   - pip:
     - atari-py
-    - sklearn
+    - scikit-learn
     - matplotlib
     - seaborn
     - scikit-image
