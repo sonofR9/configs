@@ -3,7 +3,7 @@ ARG username="jovyan"
 
 FROM ubuntu:18.04 AS base-cpu
 
-FROM nvidia/cuda:10.2-base-ubuntu18.04 AS base-gpu
+FROM nvidia/cuda:12.1.0-devel-ubuntu18.04 AS base-gpu
 
 FROM base-$device AS base
 
@@ -21,7 +21,7 @@ RUN adduser --disabled-password --gecos "Default user" $username && \
 
 RUN su $username -c \
     "wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh \
-        -O /tmp/anaconda3.sh" && \
+    -O /tmp/anaconda3.sh" && \
     mkdir -p /opt/conda && \
     chown -R $username /opt/conda && \
     su $username -c "/bin/bash /tmp/anaconda3.sh -b -p /opt/conda -u" && \
