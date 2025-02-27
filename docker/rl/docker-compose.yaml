@@ -1,0 +1,20 @@
+version: '1.0'
+
+services:
+  jupyter-rl:
+    build:
+      context: .
+      args:
+        device: gpu
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"  # 10000:8888 Map port 10000 on the host to port 8888 in the container
+    volumes:
+      - ~/repos:/notebooks  # Mount the current directory on the host to /app in the container
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

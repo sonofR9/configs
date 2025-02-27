@@ -25,7 +25,3 @@ pyglet
 requests
 editdistance
 
-atari-py
-gym
-gym[box2d]
-gym[atari]

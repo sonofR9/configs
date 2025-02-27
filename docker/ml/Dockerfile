@@ -5,9 +5,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 USER root
 RUN apt-get -qq update && \
-    apt install -y wget unzip git cmake xvfb sudo freeglut3-dev ffmpeg \
-    libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
-    libportmidi-dev
+    apt install -y wget unzip git cmake xvfb sudo freeglut3-dev ffmpeg 
 
 USER $NB_USER
 
