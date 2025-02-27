@@ -1,0 +1,26 @@
+version: '1.0'
+
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"  # 10000:8888 Map port 10000 on the host to port 8888 in the container
+    volumes:
+      - ~/repos:/app  # Mount the current directory on the host to /app in the container
+    environment:
+      - NB_USER=sonofr  # Replace 'your_username' with your actual username
+      - NB_UID=1000  # Set the user ID (adjust if needed)
+      - NB_GID=1000  # Set the group ID (adjust if needed)
+      - JUPYTER_PORT=8888  # Set the internal Jupyter port (matches EXPOSE in Dockerfile) 
+      # - JUPYTER_ENABLE_LAB=yes  # Enable Jupyter Lab
+      # - NVIDIA_VISIBLE_DEVICES=all  # Ensure all GPUs are visible to the container
+      # - NVIDIA_DRIVER_CAPABILITIES=compute,utility  # Enable necessary GPU capabilities
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
