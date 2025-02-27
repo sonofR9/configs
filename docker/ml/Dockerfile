@@ -18,7 +18,9 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Install additional Python dependencies from requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt && \
+    fix-permissions "${CONDA_DIR}" && \
+    fix-permissions "/home/${NB_USER}"
 
 # Copy the rest of the application code into the container
 COPY . .
