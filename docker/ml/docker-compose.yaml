@@ -12,6 +12,7 @@ services:
       - NB_UID=1000  # Set the user ID (adjust if needed)
       - NB_GID=1000  # Set the group ID (adjust if needed)
       - JUPYTER_PORT=8888  # Set the internal Jupyter port (matches EXPOSE in Dockerfile) 
+      - GRANT_SUDO=yes
       # - JUPYTER_ENABLE_LAB=yes  # Enable Jupyter Lab
       # - NVIDIA_VISIBLE_DEVICES=all  # Ensure all GPUs are visible to the container
       # - NVIDIA_DRIVER_CAPABILITIES=compute,utility  # Enable necessary GPU capabilities
