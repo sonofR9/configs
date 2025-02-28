@@ -25,3 +25,7 @@ pyglet
 requests
 editdistance
 
+atari-py
+gymnasium
+gymnasium[box2d]
+gymnasium[atari]
