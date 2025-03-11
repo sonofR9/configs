@@ -1,0 +1,15 @@
+[Libinput][10182][480][MSFT0001:01 27C6:01E0]
+PointerAcceleration=0.000
+PointerAccelerationProfile=1
+ScrollMethod=0
+
+[Libinput][10182][480][MSFT0001:01 27C6:01E0 Touchpad]
+PointerAcceleration=0.000
+PointerAccelerationProfile=2
+
+[Libinput][2522][8808][SONiX USB Keyboard Consumer Control]
+ScrollFactor=4
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptPointerAcceleration=0.4

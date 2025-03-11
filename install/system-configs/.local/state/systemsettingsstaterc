@@ -1,0 +1,22 @@
+[MainWindow]
+1600x1000 screen: Height=650
+1600x1000 screen: Width=1226
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+1920x1200 screen: XPosition=495
+1920x1200 screen: YPosition=266
+2 screens: Height=650
+2 screens: Width=930
+2 screens: XPosition=2415
+2 screens: YPosition=206
+3200x2000 screen: Height=650
+3200x2000 screen: Width=1598
+3200x2000 screen: XPosition=0
+3200x2000 screen: YPosition=0
+HDMI-1 eDP-1=HDMI-1
+State=AAAA/wAAAAD9AAAAAAAABj4AAAKKAAAABAAAAAQAAAAIAAAACPwAAAAA
+eDP-1=eDP-1
+
+[Open-with settings]
+CompletionMode=1
+History=ter

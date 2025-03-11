@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="mattermost-desktop.desktop" score="3308.7120361328125" last-seen="1735388452"/>
+    <application id="org.telegram.desktop.desktop" score="21" last-seen="1735390633"/>
+    <application id="org.gnome.Settings.desktop" score="17" last-seen="1735222013"/>
+    <application id="notepadqq.desktop" score="287.7490234375" last-seen="1735367141"/>
+    <application id="firefox-esr.desktop" score="1124.6195068359375" last-seen="1735285932"/>
+    <application id="code.desktop" score="21507.218139648438" last-seen="1735394393"/>
+    <application id="vmware-netcfg.desktop" score="2" last-seen="1734936267"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1734976324"/>
+    <application id="chromium.desktop" score="11993.632568359375" last-seen="1735394402"/>
+    <application id="vmware-workstation.desktop" score="986.332763671875" last-seen="1735366512"/>
+    <application id="org.wireshark.Wireshark.desktop" score="8.5" last-seen="1734952890"/>
+    <application id="synaptic.desktop" score="0" last-seen="1735479356"/>
+    <application id="terminator.desktop" score="2835.451416015625" last-seen="1735479356"/>
+  </context>
+</application-state>

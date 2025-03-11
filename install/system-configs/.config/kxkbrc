@@ -1,0 +1,7 @@
+[Layout]
+DisplayNames=,
+LayoutList=ru,us
+Options=grp_led:scroll,grp:alt_shift_toggle
+ResetOldOptions=true
+Use=true
+VariantList=,
