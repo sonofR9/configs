@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="https://rfl.getml.com/contributing/#compiling-and-running-the-tests" added="2025-01-09T06:59:11.966000Z" modified="2025-01-09T06:59:11.966000Z" visited="2025-01-09T06:59:11.966000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-09T06:59:11.966000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/alpine-2.26.tar.xz" added="2025-01-09T14:41:55.345000Z" modified="2025-01-09T14:41:55.345000Z" visited="2025-01-09T14:41:55.345000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-01-09T14:41:55.345000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Pictures/Screenshots/Screenshot_20250110_091939.png" added="2025-01-10T06:19:39.962000Z" modified="2025-01-10T06:19:39.962000Z" visited="2025-01-10T06:19:39.962000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2025-01-10T06:19:39.962000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC_%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D1%8F%D0%BC%D0%B8%20v2.xlsx" added="2025-01-14T07:43:27.589000Z" modified="2025-01-15T07:28:13.233751Z" visited="2025-01-15T06:38:36.801000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-01-14T07:43:27.589000Z" count="1"/>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %u" modified="2025-01-15T06:38:36.801000Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-15T07:28:13.233749Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC_%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D1%8F%D0%BC%D0%B8%20v2" added="2025-01-15T07:58:24.490132Z" modified="2025-01-15T07:58:24.490145Z" visited="2025-01-15T07:58:24.490134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-15T07:58:24.490139Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC_%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D1%8F%D0%BC%D0%B8%20v2.ods" added="2025-01-15T07:58:25.095516Z" modified="2025-01-20T15:31:07.998499Z" visited="2025-01-20T06:43:38.148000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-20T15:31:07.998499Z" count="80"/>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %u" modified="2025-01-20T06:43:38.148000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/tmp/lur.py" added="2025-01-16T17:58:15.849000Z" modified="2025-01-16T17:58:15.866000Z" visited="2025-01-16T17:58:15.866000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kdialog" exec="kdialog %f" modified="2025-01-16T17:58:15.866000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/%D0%BC%D0%B8%D1%82%D0%B0%D0%BF/%D0%95%D1%81%D0%BB%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BF%D1%80%D0%BE%20%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB%D0%B0%D1%81%D1%8C%20%D0%B2%D0%B0%D0%BC%20%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9.pdf" added="2025-01-17T10:57:47.527000Z" modified="2025-01-17T11:02:43.327752Z" visited="2025-01-17T11:02:43.019000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-01-17T11:02:43.019000Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-01-17T11:02:43.327750Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/uml%20sequence.drawio.png" added="2025-01-20T14:17:25.428000Z" modified="2025-01-20T14:17:25.428000Z" visited="2025-01-20T14:17:25.428000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-01-20T14:17:25.428000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.google.ru/search?q=how+acccurate+position+of+uav+drone+has+to+be+estimated&amp;newwindow=1&amp;source=hp&amp;ei=Y3xUYa-WIvWUxc8P6reK6AY&amp;iflsig=ALs-wAMAAAAAYVSKcz1Z9OPxF_M0K8Nl-WQXsbZDz80p&amp;oq=how+acccurate+position+of+uav+drone+has+to+be+estimated&amp;gs_lcp=Cgdnd3Mtd2l6EANQkgdYkgdgiAhoAHAAeACAAQCIAQCSAQCYAQCgAQKgAQE&amp;sclient=gws-wiz&amp;ved=0ahUKEwjv05i4tqTzAhV1SvEDHeqbAm0Q4dUDCAg&amp;uact=5" added="2025-01-21T05:27:14.075000Z" modified="2025-01-21T05:27:14.075000Z" visited="2025-01-21T05:27:14.075000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-21T05:27:14.075000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/installer_1.7.rar" added="2025-01-21T07:44:19.921000Z" modified="2025-01-21T07:44:19.921000Z" visited="2025-01-21T07:44:19.921000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-01-21T07:44:19.921000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture01.pdf" added="2025-01-25T15:15:14.716183Z" modified="2025-01-25T15:15:14.716197Z" visited="2025-01-25T15:15:14.716186Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T15:15:14.716191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture02.pdf" added="2025-01-25T15:16:30.310015Z" modified="2025-01-25T15:16:30.310026Z" visited="2025-01-25T15:16:30.310016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T15:16:30.310022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture03.pdf" added="2025-01-25T15:21:26.570730Z" modified="2025-01-25T15:21:26.570751Z" visited="2025-01-25T15:21:26.570732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T15:21:26.570746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture03-1.pdf" added="2025-01-25T15:21:26.632005Z" modified="2025-01-25T15:21:26.632015Z" visited="2025-01-25T15:21:26.632007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T15:21:26.632010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture04.pdf" added="2025-01-25T19:54:50.558204Z" modified="2025-01-25T19:54:50.558211Z" visited="2025-01-25T19:54:50.558206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T19:54:50.558208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture04-1.pdf" added="2025-01-25T19:54:54.678320Z" modified="2025-01-25T19:54:54.678330Z" visited="2025-01-25T19:54:54.678322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T19:54:54.678327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rs_lecture06.pdf" added="2025-01-25T20:44:37.376788Z" modified="2025-01-25T20:44:37.376799Z" visited="2025-01-25T20:44:37.376789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-25T20:44:37.376795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/Recommender%20Systems%20Handbook.pdf" added="2025-01-26T12:26:36.147576Z" modified="2025-01-26T12:26:36.147599Z" visited="2025-01-26T12:26:36.147578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-01-26T12:26:36.147586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%B0/%D0%98%D0%A8%D0%94.%20%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0.%202.5.1%20(10.10.2022).pdf" added="2025-01-27T08:25:36.480000Z" modified="2025-01-27T10:21:38.929785Z" visited="2025-01-27T10:21:38.284000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-draw" exec="libreoffice --draw %u" modified="2025-01-27T08:25:36.480000Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-27T08:25:43.095528Z" count="2"/>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-01-27T10:21:38.284000Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-01-27T10:21:38.929783Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/rd.xml" added="2025-01-28T09:38:21.172000Z" modified="2025-01-28T09:38:21.172000Z" visited="2025-01-28T09:38:21.172000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-01-28T09:38:21.172000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://yandex.zoom.us/j/97495112041" added="2025-01-28T12:55:11.680000Z" modified="2025-01-28T13:02:22.486000Z" visited="2025-01-28T13:02:22.486000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-28T13:02:22.486000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%B4%D0%BE%D0%BF%20%D0%B8%D0%BD%D1%84%D0%BE/%D0%94%D0%BE%D0%BA%D0%B8/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.txt" added="2025-01-29T06:14:50.776000Z" modified="2025-01-29T06:14:50.776000Z" visited="2025-01-29T06:14:50.776000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2025-01-29T06:14:50.776000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%B4%D0%BE%D0%BF%20%D0%B8%D0%BD%D1%84%D0%BE/%D0%94%D0%BE%D0%BA%D0%B8/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%B3%D1%80%20%D0%B8%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%20%D0%9F%D0%A1%D0%98%20%D0%9C%D0%B0%D1%81%D0%BB%D0%BE.docx" added="2025-01-29T06:15:15.195000Z" modified="2025-01-29T06:15:19.252110Z" visited="2025-01-29T06:15:15.195000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %u" modified="2025-01-29T06:15:15.195000Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-29T06:15:19.252108Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%B4%D0%BE%D0%BF%20%D0%B8%D0%BD%D1%84%D0%BE/%D0%94%D0%BE%D0%BA%D0%B8/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%98%D0%A2%D0%92%20%D0%94%D0%BE%D0%B7%D0%BE%D1%80%20%D0%9C%D0%B0%D1%81%D0%BB%D0%BE.doc" added="2025-01-29T06:17:09.940000Z" modified="2025-01-29T06:17:13.178240Z" visited="2025-01-29T06:17:09.940000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %u" modified="2025-01-29T06:17:09.940000Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-29T06:17:13.178237Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%B4%D0%BE%D0%BF%20%D0%B8%D0%BD%D1%84%D0%BE/descriptors.xml" added="2025-01-29T06:20:02.224000Z" modified="2025-01-29T06:20:40.139000Z" visited="2025-01-29T06:20:40.139000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-29T06:20:40.139000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%B4%D0%BE%D0%BF%20%D0%B8%D0%BD%D1%84%D0%BE/project/maslo_rpc/get_document.cpp" added="2025-01-29T06:20:30.610000Z" modified="2025-01-29T06:28:26.490000Z" visited="2025-01-29T06:28:26.490000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2025-01-29T06:28:26.490000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%20%D0%B1%D0%B5%D0%B7%20%D0%BB%D0%B8%D1%88%D0%BD%D0%B5%D0%B3%D0%BE.odt" added="2025-01-29T06:20:58.729000Z" modified="2025-01-29T06:21:02.468019Z" visited="2025-01-29T06:20:58.729000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %u" modified="2025-01-29T06:20:58.729000Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-01-29T06:21:02.468016Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/work/eureca/protocols/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B9%D0%BA%D0%B0/%D0%B4%D0%BE%D0%BF%20%D0%B8%D0%BD%D1%84%D0%BE/project/maslo_rpc/rpc/rpc.pro" added="2025-01-29T06:29:18.009000Z" modified="2025-01-29T06:40:55.136000Z" visited="2025-01-29T06:40:55.136000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2025-01-29T06:40:55.136000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/sql-formatter-org/sql-formatter" added="2025-01-29T09:46:17.208000Z" modified="2025-01-29T09:46:17.208000Z" visited="2025-01-29T09:46:17.208000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-29T09:46:17.208000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/mtxr/vscode-sqltools.git" added="2025-01-29T09:51:35.071000Z" modified="2025-01-29T09:51:35.071000Z" visited="2025-01-29T09:51:35.071000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-29T09:51:35.071000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/mtxr/vscode-sqltools/tree/dev/packages/driver.pg" added="2025-01-29T09:53:56.768000Z" modified="2025-01-29T09:53:56.768000Z" visited="2025-01-29T09:53:56.768000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-29T09:53:56.768000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools-driver-pg" added="2025-01-29T09:54:17.166000Z" modified="2025-01-29T09:54:17.166000Z" visited="2025-01-29T09:54:17.166000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-01-29T09:54:17.166000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://us04web.zoom.us/profile/setting?mid=67jSQ5y%2BR%2Fi2MaVhL3KnJg%3D%3D&amp;from=client" added="2025-02-06T13:59:45.820000Z" modified="2025-02-06T13:59:45.820000Z" visited="2025-02-06T13:59:45.820000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-06T13:59:45.820000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://oauth.yandex.com/authorize?response_type=token&amp;client_id=1a6990aa636648e9b2ef855fa7bec2fb" added="2025-02-07T19:35:59.136000Z" modified="2025-02-07T19:37:12.789000Z" visited="2025-02-07T19:37:12.789000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-07T19:37:12.789000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/ranger_dwarf.pdf" added="2025-02-08T10:46:54.173544Z" modified="2025-02-08T10:47:45.321645Z" visited="2025-02-08T10:47:16.599000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-08T10:47:45.321642Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-02-08T10:47:16.599000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://aka.ms/github-copilot-plans" added="2025-02-10T08:28:58.231000Z" modified="2025-02-10T08:28:58.231000Z" visited="2025-02-10T08:28:58.231000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-10T08:28:58.231000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/%D0%BA%D1%83%D1%81%D1%82%D0%BE%D0%B2" added="2025-02-12T17:46:16.326430Z" modified="2025-02-13T07:20:21.829409Z" visited="2025-02-12T17:46:16.326432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-13T07:20:21.829405Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/%D0%BA%D1%83%D1%81%D1%82%D0%BE%D0%B2.odt" added="2025-02-12T17:46:16.971900Z" modified="2025-02-13T07:20:23.720028Z" visited="2025-02-13T07:18:35.576000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-13T07:20:23.720027Z" count="62"/>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %u" modified="2025-02-13T07:18:35.576000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/potreb-prava.com-obrazets-dolgovoj-raspiski-s-protsentami-i-shtrafnymi-sanktsiyami.docx" added="2025-02-12T17:51:37.271728Z" modified="2025-02-12T17:51:43.408840Z" visited="2025-02-12T17:51:37.271733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-12T17:51:37.958108Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-12T17:51:43.408837Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/dogovor-zayma.docx" added="2025-02-12T18:12:24.273597Z" modified="2025-02-12T18:12:30.531596Z" visited="2025-02-12T18:12:24.273601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-12T18:12:24.697427Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-12T18:12:30.531595Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/Dogovor-zajma-mezhdu-fizicheskimi-litsami.docx" added="2025-02-12T18:13:10.578778Z" modified="2025-02-12T18:13:58.471806Z" visited="2025-02-12T18:13:44.381000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-12T18:13:10.919992Z" count="2"/>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %u" modified="2025-02-12T18:13:44.381000Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-12T18:13:58.471805Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/dogovor_zayma_mezhdu_fizicheskimi_litsami_procentniy.doc" added="2025-02-12T18:14:14.999858Z" modified="2025-02-12T18:14:24.054348Z" visited="2025-02-12T18:14:19.990000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-12T18:14:15.348971Z" count="2"/>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %u" modified="2025-02-12T18:14:19.990000Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-12T18:14:24.054347Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/tmp/tmp/anatoly_1.ovpn" added="2025-02-12T20:14:43.902000Z" modified="2025-02-12T20:14:43.902000Z" visited="2025-02-12T20:14:43.902000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop.desktop" exec="TelegramDesktop %u" modified="2025-02-12T20:14:43.902000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/tmp/tmp/anatoly_2.ovpn" added="2025-02-12T20:14:43.933000Z" modified="2025-02-12T20:14:43.933000Z" visited="2025-02-12T20:14:43.933000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop.desktop" exec="TelegramDesktop %u" modified="2025-02-12T20:14:43.933000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/%D0%BA%D1%83%D1%81%D1%82%D0%BE%D0%B2.pdf" added="2025-02-13T06:05:40.983000Z" modified="2025-02-13T07:21:08.791977Z" visited="2025-02-13T07:21:08.302000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-02-13T07:21:08.302000Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-02-13T07:21:08.791974Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/cv.pdf" added="2025-02-13T20:30:04.963000Z" modified="2025-02-16T20:20:48.176511Z" visited="2025-02-16T20:20:47.908000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-02-16T20:20:47.908000Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-02-16T20:20:48.176510Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/python-all.code-workspace" added="2025-02-14T05:33:32.534000Z" modified="2025-02-14T05:33:32.534000Z" visited="2025-02-14T05:33:32.534000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-code-workspace"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/share/code/code %f" modified="2025-02-14T05:33:32.534000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/sem1_dl_tricks_master.ipynb" added="2025-02-16T17:59:59.117000Z" modified="2025-02-16T17:59:59.117000Z" visited="2025-02-16T17:59:59.117000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop.desktop" exec="TelegramDesktop %u" modified="2025-02-16T17:59:59.117000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://yandex.zoom.us/j/96948257297" added="2025-02-19T14:42:24.734000Z" modified="2025-02-19T14:42:24.734000Z" visited="2025-02-19T14:42:24.734000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-19T14:42:24.734000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://yandex.zoom.us/j/96674137777" added="2025-02-20T14:52:33.090000Z" modified="2025-02-20T14:52:33.954000Z" visited="2025-02-20T14:52:33.954000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-20T14:52:33.954000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/ML2_2025_auto_pytorch_basics_student.ipynb" added="2025-02-20T19:47:52.741745Z" modified="2025-02-20T19:47:53.128161Z" visited="2025-02-20T19:47:52.741749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-20T19:47:53.128158Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://yandex.zoom.us/j/95885014239" added="2025-02-21T07:45:42.831000Z" modified="2025-02-21T07:45:42.831000Z" visited="2025-02-21T07:45:42.831000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-21T07:45:42.831000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://drone.eureca.msk.ru/projects/tesla-module-afi-parser/142/1/2" added="2025-02-21T11:23:57.882000Z" modified="2025-02-21T11:23:57.882000Z" visited="2025-02-21T11:23:57.882000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-21T11:23:57.882000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://wiki.eureca.msk.ru/ru/versioning" added="2025-02-21T11:59:32.853000Z" modified="2025-02-21T11:59:32.853000Z" visited="2025-02-21T11:59:32.853000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-21T11:59:32.853000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://yandex.zoom.us/j/98037353339" added="2025-02-21T14:52:41.137000Z" modified="2025-02-21T14:52:41.137000Z" visited="2025-02-21T14:52:41.137000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-21T14:52:41.137000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/cheat_sheets/Jupyter_Notebook_CheatSheet_Edureka.pdf" added="2025-02-22T07:24:11.189127Z" modified="2025-02-23T15:39:25.153767Z" visited="2025-02-23T15:39:24.874000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-22T07:24:11.566251Z" count="2"/>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-02-23T15:39:24.874000Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-02-23T15:39:25.153765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/cheat_sheets/vscode.pdf" added="2025-02-22T07:24:47.273458Z" modified="2025-02-22T07:24:47.695252Z" visited="2025-02-22T07:24:47.273461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-22T07:24:47.695243Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/lections/2025-02-18%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20-%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD%20%D0%9D%D0%B0%D1%83%D0%BC%D0%BE%D0%B2%20-%20Attention%20%D0%B8%20Transformer.mp4" added="2025-02-22T07:37:02.469723Z" modified="2025-02-22T18:29:23.157000Z" visited="2025-02-22T18:29:23.157000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-22T07:43:36.932156Z" count="2"/>
+          <bookmark:application name="mpv" exec="mpv --player-operation-mode=pseudo-gui -- %u" modified="2025-02-22T18:29:23.157000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/hw1_pytorch_basics.ipynb" added="2025-02-22T07:39:06.712903Z" modified="2025-02-22T07:39:07.115145Z" visited="2025-02-22T07:39:06.712905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-22T07:39:07.115141Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/lections/2025-02-17%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20-%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%A2%D0%B5%D0%BC%D0%B8%D1%80%D1%87%D0%B5%D0%B2%20-%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20RL.mp4" added="2025-02-22T07:40:03.159630Z" modified="2025-02-22T18:30:08.846000Z" visited="2025-02-22T18:30:08.846000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-22T07:45:29.505376Z" count="2"/>
+          <bookmark:application name="mpv" exec="mpv --player-operation-mode=pseudo-gui -- %u" modified="2025-02-22T18:30:08.846000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/lections/2025-02-17%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%A2%D0%B5%D0%BC%D0%B8%D1%80%D1%87%D0%B5%D0%B2%20-%20Gymnasium,%20Cross-Entropy%20Method.mp4" added="2025-02-22T07:40:12.751226Z" modified="2025-02-22T19:06:56.046000Z" visited="2025-02-22T19:06:56.046000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-22T07:45:07.048748Z" count="2"/>
+          <bookmark:application name="mpv" exec="mpv --player-operation-mode=pseudo-gui -- %u" modified="2025-02-22T19:06:56.046000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.codeium.com/profile?response_type=token&amp;client_id=3GUryQ7ldAeKEuD2obYnppsnmj58eP5u&amp;redirect_uri=vscode://Codeium.codeium&amp;state=7cd6ddb3-9405-4951-b9c0-fc08ef158c72&amp;scope=openid+profile+email&amp;prompt=login&amp;redirect_parameters_type=fragment" added="2025-02-23T13:47:59.524000Z" modified="2025-02-23T13:47:59.524000Z" visited="2025-02-23T13:47:59.524000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-23T13:47:59.524000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://www.mathsisfun.com/polar-cartesian-coordinates.html" added="2025-02-23T14:15:32.280000Z" modified="2025-02-23T14:15:32.280000Z" visited="2025-02-23T14:15:32.280000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-23T14:15:32.280000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/rougier/numpy-100" added="2025-02-23T14:18:21.583000Z" modified="2025-02-23T14:18:30.225000Z" visited="2025-02-23T14:18:30.225000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-23T14:18:30.225000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/answer_1.json" added="2025-02-23T15:37:21.636988Z" modified="2025-02-23T15:37:21.636996Z" visited="2025-02-23T15:37:21.636990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-23T15:37:21.636992Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://keras.io/api/losses/probabilistic_losses/" added="2025-02-23T15:49:11.375000Z" modified="2025-02-23T15:49:11.375000Z" visited="2025-02-23T15:49:11.375000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-23T15:49:11.375000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/meetup-tests.zip" added="2025-02-26T06:44:20.304000Z" modified="2025-02-26T06:44:20.304000Z" visited="2025-02-26T06:44:20.304000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-02-26T06:44:20.304000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/tests/meetup_inifinite.cpp" added="2025-02-26T06:48:46.730000Z" modified="2025-02-26T06:48:46.730000Z" visited="2025-02-26T06:48:46.730000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="notepadqq" exec="notepadqq %u" modified="2025-02-26T06:48:46.730000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/tests/meetup-tests.zip" added="2025-02-26T08:10:24.806000Z" modified="2025-02-26T08:10:24.806000Z" visited="2025-02-26T08:10:24.806000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-02-26T08:10:24.806000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/ark-oiRKMV/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9F%D0%9E.odp" added="2025-02-26T08:10:29.869203Z" modified="2025-02-26T08:10:30.551687Z" visited="2025-02-26T08:10:29.869204Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="'soffice %u'" modified="2025-02-26T08:10:30.551686Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/tests/valgrind.valgrind" added="2025-02-26T15:11:09.887000Z" modified="2025-02-26T15:11:09.887000Z" visited="2025-02-26T15:11:09.887000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="notepadqq" exec="notepadqq %U %u" modified="2025-02-26T15:11:09.887000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://localhost:8888/" added="2025-02-27T16:07:47.996000Z" modified="2025-02-27T16:07:47.996000Z" visited="2025-02-27T16:07:47.996000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-27T16:07:47.996000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.gnome.simplescan" added="2025-02-27T18:14:59.747000Z" modified="2025-02-27T18:14:59.747000Z" visited="2025-02-27T18:14:59.747000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2025-02-27T18:14:59.747000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/my-docs/%D0%BF%D0%B0%D1%81%D1%81%D0%BF%D0%BE%D1%80%D1%82.pdf" added="2025-02-27T18:24:23.952000Z" modified="2025-02-27T18:30:54.272076Z" visited="2025-02-27T18:30:54.006000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-02-27T18:24:23.952000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T18:26:08.406581Z" count="1"/>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-02-27T18:30:54.006000Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-02-27T18:30:54.272074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/my-docs/%D1%81%D0%BD%D0%B8%D0%BB%D1%81.pdf" added="2025-02-27T18:27:05.009000Z" modified="2025-02-27T18:27:18.173740Z" visited="2025-02-27T18:27:05.009000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-02-27T18:27:05.009000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T18:27:18.173738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/PFR_777000_0SZIE_20250227_72fff93a-f533-11ef-806e-f6d2c84ce092.pdf" added="2025-02-27T18:27:36.516869Z" modified="2025-02-27T18:28:50.441902Z" visited="2025-02-27T18:28:23.834000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T18:28:50.441898Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-02-27T18:28:23.834000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/my-docs/%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%B8%D0%BB%D0%B5%D1%82.pdf" added="2025-02-27T18:37:09.537000Z" modified="2025-02-27T18:42:10.522789Z" visited="2025-02-27T18:41:48.065000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-02-27T18:37:09.537000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T18:42:10.522787Z" count="2"/>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-02-27T18:41:48.065000Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-02-27T18:41:48.323510Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/my-docs/%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B1%D0%B8%D0%BB%D0%B5%D1%82_2.pdf" added="2025-02-27T18:41:04.273000Z" modified="2025-02-27T18:41:04.534016Z" visited="2025-02-27T18:41:04.273000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-02-27T18:41:04.273000Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-02-27T18:41:04.534014Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/my-docs/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0.pdf" added="2025-02-27T18:45:12.303000Z" modified="2025-02-27T18:47:10.968447Z" visited="2025-02-27T18:45:12.303000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-02-27T18:45:12.303000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T18:47:10.968445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Documents/my-docs/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B0.pdf" added="2025-02-27T18:47:03.744000Z" modified="2025-02-27T18:47:10.968434Z" visited="2025-02-27T18:47:03.744000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-02-27T18:47:03.744000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T18:47:10.968429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/me.jpg" added="2025-02-27T19:27:38.690000Z" modified="2025-02-27T19:27:44.865597Z" visited="2025-02-27T19:27:38.690000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop.desktop" exec="TelegramDesktop %u" modified="2025-02-27T19:27:38.690000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-02-27T19:27:44.865594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer" added="2025-02-28T18:17:34.307000Z" modified="2025-02-28T18:17:36.770000Z" visited="2025-02-28T18:17:36.770000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-28T18:17:36.770000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://joblib.readthedocs.io/en/latest/" added="2025-02-28T19:30:54.115000Z" modified="2025-02-28T19:30:54.115000Z" visited="2025-02-28T19:30:54.115000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox-esr" exec="/usr/lib/firefox-esr/firefox-esr %u" modified="2025-02-28T19:30:54.115000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/tmp/rl-video.mp4" added="2025-03-01T06:10:41.428000Z" modified="2025-03-01T06:10:41.428000Z" visited="2025-03-01T06:10:41.428000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="mpv" exec="mpv --player-operation-mode=pseudo-gui -- %u" modified="2025-03-01T06:10:41.428000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/rl/week01_intro/deep_crossentropy_method.ipynb" added="2025-03-02T09:55:07.112081Z" modified="2025-03-02T09:55:07.112511Z" visited="2025-03-02T09:55:07.112088Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-02T09:55:07.112109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/deep_crossentropy_method.ipynb.ipynb" added="2025-03-02T09:56:03.498041Z" modified="2025-03-02T09:56:03.807066Z" visited="2025-03-02T09:56:03.498043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-02T09:56:03.807056Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/deep_crossentropy_method.html" added="2025-03-02T10:01:18.973541Z" modified="2025-03-02T10:01:19.439826Z" visited="2025-03-02T10:01:18.973543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-02T10:01:19.439823Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/deep_crossentropy_method.pdf" added="2025-03-02T10:02:09.957000Z" modified="2025-03-02T10:02:46.175135Z" visited="2025-03-02T10:02:09.957000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-03-02T10:02:09.957000Z" count="1"/>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-02T10:02:46.175133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/mathstat/hw/first.ipynb" added="2025-03-09T09:18:42.596717Z" modified="2025-03-09T09:18:42.596748Z" visited="2025-03-09T09:18:42.596720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-09T09:18:42.596738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/Telegram%20Desktop/02_transformers_2025_full.pdf" added="2025-03-09T14:00:39.336000Z" modified="2025-03-09T14:00:39.811346Z" visited="2025-03-09T14:00:39.336000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-03-09T14:00:39.336000Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-03-09T14:00:39.811344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/Telegram%20Desktop/02_transformers_2025.pptx" added="2025-03-09T14:00:51.692000Z" modified="2025-03-09T14:00:51.692000Z" visited="2025-03-09T14:00:51.692000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-03-09T14:00:51.692000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/lab2_transformers/paper_referat.ipynb" added="2025-03-09T14:03:31.841980Z" modified="2025-03-09T14:03:32.246287Z" visited="2025-03-09T14:03:31.841982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ipynb+json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-09T14:03:32.246278Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/lab2_transformers/vision%20transformer.pdf" added="2025-03-09T14:16:20.039712Z" modified="2025-03-10T20:28:28.591258Z" visited="2025-03-10T20:28:28.280000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-09T14:16:20.421069Z" count="2"/>
+          <bookmark:application name="org.gnome.Evince" exec="evince %u" modified="2025-03-10T20:28:28.280000Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="'evince %u'" modified="2025-03-10T20:28:28.591257Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/lab2_transformers/vit-perfomance.png" added="2025-03-09T16:27:22.018000Z" modified="2025-03-09T16:27:22.258000Z" visited="2025-03-09T16:27:22.258000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2025-03-09T16:27:22.258000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/lab2_transformers/images/score-vs-compute.png" added="2025-03-09T19:55:50.680000Z" modified="2025-03-09T19:55:50.733000Z" visited="2025-03-09T19:55:50.733000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2025-03-09T19:55:50.733000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/lab2_transformers/images/size-influence.png" added="2025-03-09T20:07:52.144000Z" modified="2025-03-09T20:07:52.196000Z" visited="2025-03-09T20:07:52.196000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2025-03-09T20:07:52.196000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/algo/theoretical_hw/second/sixth.tex" added="2025-03-10T11:15:51.614000Z" modified="2025-03-10T11:15:51.614000Z" visited="2025-03-10T11:15:51.614000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-tex"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kdialog" exec="kdialog %f" modified="2025-03-10T11:15:51.614000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/Obsidian-1.8.9.AppImage" added="2025-03-10T15:07:30.996766Z" modified="2025-03-10T15:08:24.979384Z" visited="2025-03-10T15:07:30.996768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-10T15:08:24.979354Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/obsidian_1.8.9_amd64.deb" added="2025-03-10T15:09:00.417397Z" modified="2025-03-10T15:09:28.066725Z" visited="2025-03-10T15:09:00.417400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-10T15:09:28.066709Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/Tabular%20RL.pdf" added="2025-03-10T15:13:38.131315Z" modified="2025-03-10T15:13:41.567000Z" visited="2025-03-10T15:13:41.567000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-10T15:13:38.131321Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-03-10T15:13:41.567000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/intro_week_0.pdf" added="2025-03-10T15:15:14.055195Z" modified="2025-03-10T15:15:19.030000Z" visited="2025-03-10T15:15:19.030000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-10T15:15:14.055200Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-03-10T15:15:19.030000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/Downloads/PFR_777000_0SZIE_20250310_cdb43a6b-fdea-11ef-b390-ce0c30564418.pdf" added="2025-03-10T20:04:57.138465Z" modified="2025-03-10T20:04:57.138469Z" visited="2025-03-10T20:04:57.138465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-10T20:04:57.138467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/repos/shad/ml1/ml2/lab2_transformers/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA_%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F1.pdf" added="2025-03-10T20:42:08.657351Z" modified="2025-03-10T20:45:03.867193Z" visited="2025-03-10T20:42:08.657352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox-esr %u'" modified="2025-03-10T20:45:03.867192Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sonofr/tmp/list.txt" added="2025-03-11T08:14:37.724000Z" modified="2025-03-11T08:14:37.724000Z" visited="2025-03-11T08:14:37.724000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %f" modified="2025-03-11T08:14:37.724000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,8 @@
+[General]
+SystemInstallDate=2024-12-29
+
+[KickerRunnerManager]
+LaunchCounts=1 exec:///usr/bin/chromium,2 exec:///usr/bin/vmware,1 exec:///usr/share/code/code,1 exec:///usr/bin/terminator
+
+[KickerRunnerManager][History]
+d1fefcc2-6502-48eb-8418-ed3a29b71c39=mpv,matter,note,mat,matt,ma,document scanner,matte,disk,file,office,m,zoom,fir,cal,mate,python,pytho,chr,vm,te,rec,video,tele,vmwa,code,ter
