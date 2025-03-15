@@ -20,6 +20,8 @@ kaggle
 xlrd
 # PyMC
 arviz
+
+graphviz
 psutil
 imageio
 pyglet
