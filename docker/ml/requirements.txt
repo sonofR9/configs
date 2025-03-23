@@ -12,6 +12,11 @@ catboost
 optuna
 statsmodels
 
+transformers
+datasets
+evaluate
+accelerate
+
 tqdm
 einops
 termcolor
@@ -19,6 +24,7 @@ termcolor
 pygwalker
 mlxtend
 kaggle
+streamlit
 
 xlrd
 # PyMC
