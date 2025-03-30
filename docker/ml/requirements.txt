@@ -17,6 +17,9 @@ datasets
 evaluate
 accelerate
 
+albumentations
+nlpaug
+
 tqdm
 einops
 termcolor
