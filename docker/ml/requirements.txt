@@ -19,6 +19,10 @@ accelerate
 
 albumentations
 nlpaug
+nltk
+sentencepiece
+librosa
+gensim
 
 tqdm
 einops
