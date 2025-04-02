@@ -16,6 +16,7 @@ transformers
 datasets
 evaluate
 accelerate
+tensorboard
 
 albumentations
 nlpaug
