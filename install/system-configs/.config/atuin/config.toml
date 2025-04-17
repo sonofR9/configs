@@ -230,3 +230,10 @@ records = true
 
 ## The port that should be used for TCP on non unix systems
 # tcp_port = 8889
+
+[search]
+## The list of enabled filter modes, in order of priority.
+## The "workspace" mode is skipped when not in a workspace or workspaces = false.
+## Default filter mode can be overridden with the filter_mode setting.
+# filters = [ "global", "host", "session", "workspace", "directory" ]
+filters = [ "global", "workspace", "directory" ]
