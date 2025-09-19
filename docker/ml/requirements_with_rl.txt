@@ -1,23 +1,16 @@
-# general
 numpy
 scipy
 opencv-python
 
-# graphs
 seaborn
 pandas
 matplotlib
 
-# general dl (in addition to pytorch default docker)
-
-# simple models
 scikit-learn
 scikit-image
 catboost
 optuna
 statsmodels
-
-# optimization
 
 transformers
 datasets
@@ -27,8 +20,10 @@ tensorboard
 
 albumentations
 nlpaug
+nltk
 sentencepiece
 librosa
+gensim
 
 tqdm
 einops
@@ -50,10 +45,8 @@ pyglet
 requests
 editdistance
 
-# nlp
-nltk
-gensim
-bokeh
-
-# cv
-
+atari-py
+gymnasium
+gymnasium[box2d]
+gymnasium[atari]
+gymnasium[all]
