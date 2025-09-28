@@ -7,7 +7,9 @@ USER root
 RUN apt-get -qq update && \
     apt install -y wget unzip git cmake xvfb sudo freeglut3-dev ffmpeg \
     libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
-    libportmidi-dev swig graphviz
+    libportmidi-dev swig graphviz \
+    libnss3 libatk1.0-0t64 libatk-bridge2.0-0t64 libatspi2.0-0t64 \
+    libxcomposite1 libxdamage1
 
 USER $NB_USER
 
@@ -21,6 +23,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt && \
     fix-permissions "${CONDA_DIR}" && \
     fix-permissions "/home/${NB_USER}"
+RUN playwright install chromium
 
 COPY start-xvfb.sh /usr/local/bin/start-notebook.d/start-xvfb.sh
 

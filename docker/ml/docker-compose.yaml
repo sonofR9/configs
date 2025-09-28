@@ -16,6 +16,7 @@ services:
       # - JUPYTER_ENABLE_LAB=yes  # Enable Jupyter Lab
       # - NVIDIA_VISIBLE_DEVICES=all  # Ensure all GPUs are visible to the container
       # - NVIDIA_DRIVER_CAPABILITIES=compute,utility  # Enable necessary GPU capabilities
+      - JUPYTER_TOKEN=sonofr
     deploy:
       resources:
         reservations:

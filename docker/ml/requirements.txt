@@ -6,7 +6,9 @@ opencv-python
 # graphs
 seaborn
 pandas
+polars
 matplotlib
+plotly
 
 # general dl (in addition to pytorch default docker)
 
@@ -52,8 +54,22 @@ editdistance
 
 # nlp
 nltk
-gensim
+# gensim
 bokeh
 
 # cv
 
+# formatters etc.
+black
+flake
+ruff
+flake8
+autopep8
+isort
+
+# jupyter
+# nbconvert[webpdf]
+# ipykernel
+
+# more unsorted stuff
+pytest
